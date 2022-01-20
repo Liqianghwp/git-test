@@ -13,5 +13,6 @@ public class Git {
         System.out.println("hot-fix,git4");
         System.out.println("hot-fix,test4");
         System.out.println("push,test4");
+        System.out.println("pull,test");
     }
 }
