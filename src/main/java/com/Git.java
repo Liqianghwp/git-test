@@ -10,5 +10,7 @@ public class Git {
         System.out.println("master test");
         System.out.println("master test2");
 
+        System.out.println("hot-fix,git4");
+        System.out.println("hot-fix,test4");
     }
 }
